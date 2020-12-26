@@ -103,9 +103,9 @@
 
 #Mainback {
   background-image: url("../img/Lackbackground2.jpg");
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-size: contain;
-  background-color: blue; }
+  background-size: cover; }
 
 .pTitle {
   padding-bottom: 2rem; }
